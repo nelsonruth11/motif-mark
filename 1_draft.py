@@ -86,6 +86,7 @@ class Finder:
             pos_list.append(pos.span()[0])
         self.matches.append(pos_list)
 
+
 class Gene:
     def __init__(self, gene):
         """Determines exon locations of a DNA sequence and length of total sequence."""

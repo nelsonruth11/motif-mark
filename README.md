@@ -17,3 +17,8 @@ There is a small element of randomness involved with graphing. Each motif is col
 
 This script can process any number of genes of any length, as well as any number of motifs, though after about 10 different motifs things get messy due to excessive sequence overlap and motif color similarity.
 <br>
+
+## **Usage**
+
+The user does not need to change any code in the file, simply add the argparse options for the fasta and motif file then run the script. The output figure will be added to the folder containing the script.
+<br>
